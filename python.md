@@ -23,6 +23,8 @@
 - PCPP1: Certified Professional in Python Programming 1
 - PCPP2: Certified Professional in Python Programming 2
 
+<br />
+
 ## Microsoft Exame
 
 :: Introduction Programming - $127
