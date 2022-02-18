@@ -1,7 +1,7 @@
 # Python
 
-- Informations :: https://www.guru99.com/python-programming-certification.html
-- https://pythoninstitute.org/
+- [Informations](https://www.guru99.com/python-programming-certification.html)
+- [Python Institute](https://pythoninstitute.org/)
 
 <br />
 
